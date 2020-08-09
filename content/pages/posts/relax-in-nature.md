@@ -14,7 +14,7 @@ excerpt: >-
   DSL, así como productos insuficientemente conocidos de levadura y metabolitos
   bacterianos. Las investigaciones de la bebida siempre se llevaron a cabo en
   condiciones estáticas por lo siguiente: (Konovalov y Semenova 1955 ;
-  Danielova1957 ; Steiger y Steinegger, 1957 ; Reiss
+  Danielova1957 ; Steiger y Steinegger, 1957 ; Reiss 
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
