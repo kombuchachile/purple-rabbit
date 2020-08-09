@@ -2,10 +2,12 @@
 title: Fermenados / Probioticos
 has_intro: true
 intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+  Los probióticos son microorganismos que permanecen activos en nuestro
+  intestino en cantidad suficiente como para alterar nuestra microbiota
+  intestinal, tanto por implantación como por colonización. Pueden tener efectos
+  beneficiosos cuando son ingeridos en cantidades suficientes. Pueden atravesar
+  el aparato digestivo y recuperarse vivos en los excrementos, pero también se
+  deben adherir a la mucosa intestinal
 intro_actions:
   - label: Learn More
     url: /about
