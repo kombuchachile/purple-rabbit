@@ -1,9 +1,14 @@
 ---
 title: Microorganismos del té de kombucha
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+  El hongo del té o kombucha es el nombre común dado al crecimiento simbiótico
+  de bacterias del ácido acético y especies de levadura osmofílica en una estera
+  de zoogleal que debe cultivarse en té azucarado. Según Jarrell y otros ( 2000
+  ), la kombucha es un consorcio de levaduras y bacterias. Lindau le dio el
+  nombre botánico formal Medusomyces gisevii (Hesseltine 1965 ). El hongo del té
+  no es un hongo. Ese nombre se da erróneamente debido a la capacidad de las
+  bacterias para sintetizar una red de celulosa flotante que aparece como moho
+  superficial en el medio no perturbado ni perturbado.
 date: '2019-03-30'
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
