@@ -9,7 +9,7 @@ intro_content: >-
   el aparato digestivo y recuperarse vivos en los excrementos, pero también se
   deben adherir a la mucosa intestinal
 intro_actions:
-  - label: + Informaci
+  - label: + Informaciò
     url: /about
     style: primary
   - label: Contact
