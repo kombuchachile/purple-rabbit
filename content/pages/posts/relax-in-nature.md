@@ -4,8 +4,17 @@ subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
 excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  El análisis químico de la kombucha mostró la presencia de varios ácidos
+  orgánicos, como acético, glucónico, glucurónico, cítrico, láctico, málico,
+  tartárico, malónico, oxálico, succínico, pirúvico, usnic; también azúcares,
+  como sacarosa, glucosa y fructosa; las vitaminas B 1 , B 2 , B 6 , B 12 y C;
+  14 aminoácidos, aminas biogénicas, purinas, pigmentos, lípidos, proteínas,
+  algunas enzimas hidrolíticas, etanol, materia antibióticamente activa, dióxido
+  de carbono, fenol, así como algunos polifenoles de té, minerales, aniones,
+  DSL, así como productos insuficientemente conocidos de levadura y metabolitos
+  bacterianos. Las investigaciones de la bebida siempre se llevaron a cabo en
+  condiciones estáticas por lo siguiente: (Konovalov y Semenova 1955 ;
+  Danielova1957 ; Steiger y Steinegger, 1957 ; Reiss
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
