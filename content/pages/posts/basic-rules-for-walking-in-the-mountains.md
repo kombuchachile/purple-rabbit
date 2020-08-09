@@ -1,5 +1,5 @@
 ---
-title: Fermenados / Probioticos
+title: Fermentados / Probioticos
 excerpt: >-
   Los probióticos son una mejor alternativa para reducir o eliminar el uso de
   antibióticos comerciales, mediante la caracterización de bacterias lácticas y
