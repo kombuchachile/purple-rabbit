@@ -1,9 +1,11 @@
 ---
 title: Fermenados / Probioticos
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Los probióticos son una mejor alternativa para reducir o eliminar el uso de
+  antibióticos comerciales, mediante la caracterización de bacterias lácticas y
+  levaduras provenientes de alimentos fermentados, es posible verificar su
+  desempeño in vitro para el tratamiento de infecciones bacterianas
+  gastrointestinales.
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
