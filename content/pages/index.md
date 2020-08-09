@@ -12,7 +12,7 @@ intro_actions:
   - label: + Informacion
     url: /about
     style: primary
-  - label: Contact
+  - label: Contacto
     url: /contact
     style: secondary
 layout: home
