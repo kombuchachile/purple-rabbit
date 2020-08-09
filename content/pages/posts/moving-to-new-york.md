@@ -1,7 +1,7 @@
 ---
 title: Few Things I Wish I Knew Before I Moved to New York
 subtitle: A cautionary tale about life in New York
-excerpt: ''
+excerpt: "El cuerpo humano está compuesto por aproximadamente 1013 células, cada una de las cuales recibe varias el  ADN de arena golpea todos los días, principalmente de especies reactivas de oxígeno (ROS) generadas por la célula metabolismo, reacciones de Fenton y toxinas ambientales consumidas en la dieta.   La célula intenta mantener un equilibrio entre los antioxidantes que circulan en las células y los ROS presente en el mismo. Si los niveles de ROS superan con creces los niveles de antioxidantes, varios macromoleculas.  Las células tales como ADN, proteínas, lípidos y enzimas están dañadas. El daño acumulado en última instancia conduce al desarrollo de varios trastornos crónicos, incluido el cáncer.   Al abordar esta enfermedad compleja (varios tipos de cánceres), diversos enfoques como la quimio terapia prevención, tratamiento de irradiación y modificación de la dieta que implica el aumento de la ingesta de los fito químicos, los probióticos y las plantas a base de hierbas han surgido como los más prometedores y tratamientos rentables.\0"
 date: '2018-01-23'
 thumb_img_path: images/5.jpg
 content_img_path: images/5.jpg
